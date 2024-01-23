@@ -1,0 +1,8 @@
+{
+  "account_number": "67890",
+  "balance": {
+    "amount": 3112.32,
+    "currency": "EUR"
+  },
+  "owner_name": "Alice Smith"
+}
