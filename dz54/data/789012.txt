@@ -1,0 +1,8 @@
+{
+  "account_number": "789012",
+  "balance": {
+    "amount": 1200,
+    "currency": "USD"
+  },
+  "owner_name": "Jane Doe"
+}

@@ -1,0 +1,8 @@
+{
+  "account_number": "12345",
+  "balance": {
+    "amount": 200.0,
+    "currency": "USD"
+  },
+  "owner_name": "John Doe"
+}
