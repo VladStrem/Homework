@@ -1,0 +1,3 @@
+2024-02-24 14:27:03 - Client: Calculated sum of numbers: 15
+2024-02-24 14:27:03 - Proxy: Logging the time of request.
+2024-02-24 14:27:03 - Client: Calculated sum of numbers: 15
