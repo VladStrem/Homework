@@ -1,0 +1,15 @@
+Array sorted ascending
+Element 10 added to the beginning of the array
+Element 10 removed from the beginning of the array
+Number of elements equal to 5: 1
+Average value of the array: 3.0
+Array sorted ascending
+Element 10 added to the beginning of the array
+Element 10 removed from the beginning of the array
+Number of elements equal to 5: 1
+Average value of the array: 3.0
+Array sorted ascending
+Element 10 added to the beginning of the array
+Element 10 removed from the beginning of the array
+Number of elements equal to 5: 1
+Average value of the array: 3.0
